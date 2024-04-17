@@ -1,0 +1,72 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+.retalho{
+    background-color: black;
+color: gray;
+display: flex;
+justify-content: space-around;
+padding: 24px 0;
+
+}
+
+.retalho-imagem{
+    width: 60%;
+
+}
+.retalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+font-size: 24px;
+
+}
+
+ .alurada-imagem{
+    width: 30%;
+
+ }
+ .alurada{
+    background-image:linear-gradient(rgb(0, 0, 0)) rgb(94, 94, 94);
+    background-color: black;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 24px 0;
+ }
+ .alurada-div{
+width: 90%;
+background-color: black;
+ }
+
+ .alurada-titulo{
+    padding: 24px 0;
+
+}
+.estudante-imagem{
+    width: 180px;
+}
+
+ .alurada-texto-um{
+    font-size: large;
+    text-decoration: dotted;
+ }
+ .alurada-texto-dois{
+    font-size: large;
+    text-decoration: dotted;
+    text-shadow: 10cap;
+ }
+
+ .estudante-icone{
+    width: 40px;
+
+ }
+
+ .estudante-icone-dois{
+    width: 40px;
+
+ }
